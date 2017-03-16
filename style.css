@@ -319,3 +319,16 @@ a:link {
 .aprilimgtwo img {
     width: 100%;
 }
+
+/* COMINGO SOON */
+
+.comingsoon {
+    width: 50%;
+    position: absolute;
+    margin-top: 200px;
+    margin-left: 24%;
+}
+
+.comingsoon img {
+    width: 100%;
+}
