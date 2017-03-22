@@ -83,10 +83,10 @@ footer {
 
 .title { 
     width: 90%;
-    margin-top: 160px;
+    margin-top: 130px;
     float: left;
     z-index: -1;
-    line-height: 1.1em;
+    line-height: 0.9em;
 }
 
 .title {
