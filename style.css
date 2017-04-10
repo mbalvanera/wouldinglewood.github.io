@@ -105,7 +105,7 @@ header {
     margin-top: 18%;
     margin-left: 18%;
     width: 60%;
-    position: absolute;
+    position: fixed;
     z-index: -1;
     text-decoration: none;
  
@@ -144,6 +144,19 @@ video#bgvid {
     background-size: cover; 
 }
 
+
+.logolandingpage {
+    width: 150px;
+    height: 150px;
+    margin-top: 34%;
+    margin-left: 43%;
+    position: absolute;
+}
+
+.logolandingpage img {
+    width: 100%;
+}
+    
 
 
 /* about */
