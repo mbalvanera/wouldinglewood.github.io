@@ -489,6 +489,42 @@ video#bgvid {
     width: 100%
 }
 
+.donatenow {
+    width: 500px;
+    position: absolute;
+    z-index: 1;
+    margin-left: 55%;
+    margin-top: 50%;
+    float: left;
+    
+}
+
+.donatenow img {
+    width: 100%
+}
+
+.instructions {
+    background: white;
+    border: dashed 2px black;
+    width: 40%;
+    position: fixed;
+    z-index: 100;
+    padding: 35px;
+    margin-top: 20%;
+    margin-left: 30%;
+}
+
+
+.alert-close {
+    width: 20px;
+    height: 20px;
+    font-size: 20px;
+    margin-bottom: 20px;
+    background: gray;
+    text-align: center;
+}
+
+
 /* APRIL */
 
 .innocentmonsters {
