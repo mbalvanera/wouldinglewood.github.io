@@ -695,6 +695,15 @@ video#bgvid {
     margin-bottom: 100px; 
 }
 
+.with a {
+    text-decoration: none;
+    color: black;
+}
+
+.with a:hover {
+    text-decoration: underline;
+}
+
 .bottomcontainer {
     display: -webkit-flex;
     display: flex;
