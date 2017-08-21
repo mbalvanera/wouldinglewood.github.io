@@ -793,8 +793,8 @@ video#bgvid {
     float: left;
     font-family: 'Roboto Condensed', sans-serif;
     font-size: 15px;
-    margin-top: 100px;
-    margin-left: 50px;
+    margin-top: 250px;
+    margin-left: 5%;
     margin-bottom: 100px;
 }
 
@@ -802,9 +802,10 @@ video#bgvid {
 .augustcolumnthree {
     width: 45%;
     float: left;
-    margin-top: 100px;
+    margin-top: 250px;
     font-family: 'Almendra', sans-serif;
     font-size: 36px;
+    line-height: 1.3em;
     
 }
 
@@ -837,6 +838,45 @@ video#bgvid {
     text-decoration: underline;
     color: #C95D0D;
 }
+
+.columnquoteaugust  {
+    width: 58%;
+    position: absolute;
+    margin-top: 100px;
+    margin-left: 37%;
+    padding: 8px;
+    font-family: 'Roboto Condensed', sans-serif;
+    font-size: 16px;
+    line-height: 1.1em;
+    background: -webkit-linear-gradient(#EE3F23, #F26721); /* For Safari 5.1 to 6.0 */
+    background: -o-linear-gradient(#EE3F23, #F26721); /* For Opera 11.1 to 12.0 */
+    background: -moz-linear-gradient(#EE3F23, #F26721); /* For Firefox 3.6 to 15 */
+    background: linear-gradient(#EE3F23, #F26721);
+    box-shadow: -10px -10px 25px #D32816;
+}
+
+
+.columnquoteaugust:hover {
+    transition: 0.2s;
+    opacity: 0;
+}
+
+.columnquoteaugustspanish  {
+    width: 58%;
+    position: absolute;
+    margin-top: 100px;
+    margin-left: 37%;
+    padding: 8px;
+    font-family: 'Roboto Condensed', sans-serif;
+    font-size: 16px;
+    line-height: 1.1em;
+    background: -webkit-linear-gradient(#EE3F23, #F26721); /* For Safari 5.1 to 6.0 */
+    background: -o-linear-gradient(#EE3F23, #F26721); /* For Opera 11.1 to 12.0 */
+    background: -moz-linear-gradient(#EE3F23, #F26721); /* For Firefox 3.6 to 15 */
+    background: linear-gradient(#EE3F23, #F26721);
+    box-shadow: -10px -10px 25px #D32816;
+}
+
 
 
 /* COMING SOON */
