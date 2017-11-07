@@ -1235,6 +1235,60 @@ video#bgvid {
     text-decoration: none;
 }
 
+/* NOVEMBER */
+
+.novemberimg img {
+    width: 1400px;
+    height: 1200px;
+    position: absolute;
+    z-index: -1;
+    opacity: 0.8;
+    margin-top: 15%;
+    float: left;
+    box-shadow: -10px -10px 25px #999999;
+}
+
+
+.novembercontainer {
+    width: 75%;
+    margin-top: 300px;
+    margin-left: 3%;
+    position: absolute;
+    
+}
+
+.presentation {
+    width: 75%;
+    margin-left: 25%;
+    padding: 10px;
+    margin-bottom: 70px;
+    cursor: move;
+}
+
+.presentation img {
+    width: 100%;
+}
+
+.novembertext { 
+    margin-left: 30%;
+    width: 60%;
+    z-index: -1;
+    text-decoration: none;
+    cursor: pointer;
+ 
+}
+
+.novembertext p {
+    color: black;
+    font-size: 50px;
+    text-align: center;
+    font-family: 'Almendra', sans-serif;
+    color: transparent;
+    text-shadow: -2px -2px 0 #0013FF, 2px -2px 0 #5AFFB4, -2px 2px 0 #AAF7AC, 2px 2px 0 #38C186;
+    line-height: 0.9em;
+    text-decoration: none;
+}
+
 
 
 /* COMING SOON */
