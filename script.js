@@ -22,6 +22,10 @@ $(function(){
   $(".instructions").draggable();
 });
 
+$(function(){
+  $(".presentation").draggable();
+});
+
 
 $(document).ready(function(c) {
 	$('.alert-close').on('click', function(c){
