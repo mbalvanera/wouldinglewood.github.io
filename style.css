@@ -1289,6 +1289,91 @@ video#bgvid {
     text-decoration: none;
 }
 
+/* SHOP */
+
+.containershop {
+    width: 85%;
+    height: 800px;
+    position: absolute;
+    opacity: 0.8;
+    margin-top: 15%;
+    box-shadow: 10px -10px 25px #b9deff;
+    background: #3dd129; 
+}
+
+.products {
+    width: 75%;
+    margin-top: 100px;
+    margin-left: 200px;
+    padding: 8px;
+    position: absolute;
+    
+}
+
+.tshirt {
+    width: 300px;
+    height: auto;
+    margin-right: 20%;  
+    float: left;
+}
+
+.tshirt img {
+    width: 300px;
+}
+
+totebag {
+    width: 300px;
+    height: auto;
+    margin-right: 20%;
+    float: left;
+}
+
+.totebag img {
+    width: auto;
+    height: 300px;
+}
+
+/* PUZZLE */
+
+.puzzlecontainer {
+    width: 85%;
+    height: auto;
+    margin-left: 8%;
+    margin-top: 200px;
+    position: absolute
+}
+
+/*INTERACT*/
+
+.puzzlemixer {
+    width: 100%;
+    margin-top: 250px;
+    margin-left: 10%;
+    padding: 8px;
+    position: absolute;
+}
+
+.puzzle {
+    width: 35%;
+    height: auto;
+    margin-right: 150px;
+    float: left;
+}
+
+.puzzle img {
+    width: 100%;
+}
+
+.mixer {
+    width: 35%;
+    height: auto;
+    margin-right: 8%;
+    float: left;
+}
+
+.mixer img {
+    width: 100%;
+}
 
 
 /* COMING SOON */
